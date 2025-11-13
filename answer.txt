@@ -1,4 +1,0 @@
-1.	I think those choices help install Git with tools that make it easier to use, like the command line and a simple program window.
-2.	Programmers use the command line because it’s quicker and lets them do many things without opening other programs.
-3.	It shows the complete address or location of the folder you’re currently in.
-4.	It’s a file named README.md, and it usually gives a short summary or basic information about the project.
