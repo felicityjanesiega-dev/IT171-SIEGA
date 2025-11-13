@@ -1,0 +1,25 @@
+1.	I think those choices help install Git with tools that make it easier to use, like the command line and a simple program window.
+2.	Programmers use the command line because it’s quicker and lets them do many things without opening other programs.
+3.	It shows the complete address or location of the folder you’re currently in.
+4.	It’s a file named README.md, and it usually gives a short summary or basic information about the project.
+
+diff --git a/answer.txt b/answer.txt
+new file mode 100644
+index 0000000..2a822a9
+--- /dev/null
++++ b/answer.txt
+@@ -0,0 +1,4 @@
++1.     I think those choices help install Git with tools that make it easier to use, like the command line and a simple program window.
++2.     Programmers use the command line because it’s quicker and lets them do many things without opening other programs.
++3.     It shows the complete address or location of the folder you’re currently in.
++4.     It’s a file named README.md, and it usually gives a short summary or basic information about the project.
+diff --git a/siega.py b/siega.py
+index 0c2535e..a38c9c1 100644
+--- a/siega.py
++++ b/siega.py
+@@ -6,8 +6,6 @@ treasure_x = 1
+ treasure_y = 3
+ game_running = True
+
+-print("Welcome to Siegas's Maze")
+
